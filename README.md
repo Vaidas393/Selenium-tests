@@ -34,6 +34,6 @@ Dependencies management is available in ```pom.xml```
 ## Using
 Use ```testng.xml``` or ```smoke.xml``` files to run tests. (Run As / TestNG Suite)
 
-### Authors: [Vaidas]( https://github.com/Vaidas393)
-)
+### Authors: [Vaidas Pocius]( https://github.com/Vaidas393)
+
 
