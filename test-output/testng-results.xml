@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-20T21:49:23 EET" name="Default suite" finished-at="2020-01-20T21:49:43 EET" duration-ms="19289">
+    <groups>
+    </groups>
+    <test started-at="2020-01-20T21:49:23 EET" name="Default test" finished-at="2020-01-20T21:49:43 EET" duration-ms="19289">
+      <class name="tests.AddIssue">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:23 EET" name="beforeClass" finished-at="2020-01-20T21:49:28 EET" duration-ms="4371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Should_Create_Issue_Ok()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:28 EET" name="Should_Create_Issue_Ok" finished-at="2020-01-20T21:49:30 EET" duration-ms="2263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Create_Issue_Ok -->
+        <test-method signature="Should_Create_Issue_Wit_Assigned_Valid()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:30 EET" name="Should_Create_Issue_Wit_Assigned_Valid" finished-at="2020-01-20T21:49:32 EET" duration-ms="1947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Create_Issue_Wit_Assigned_Valid -->
+        <test-method signature="Should_Create_Issue_Wit_Reason_Fixed()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:32 EET" name="Should_Create_Issue_Wit_Reason_Fixed" finished-at="2020-01-20T21:49:34 EET" duration-ms="1959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Create_Issue_Wit_Reason_Fixed -->
+        <test-method signature="Should_Not_Create_Issue_Severity_Too_Big()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:34 EET" name="Should_Not_Create_Issue_Severity_Too_Big" finished-at="2020-01-20T21:49:36 EET" duration-ms="2024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Not_Create_Issue_Severity_Too_Big -->
+        <test-method signature="Should_Not_Create_Issue_Wit_Assigned_Invalid()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:36 EET" name="Should_Not_Create_Issue_Wit_Assigned_Invalid" finished-at="2020-01-20T21:49:38 EET" duration-ms="2168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Not_Create_Issue_Wit_Assigned_Invalid -->
+        <test-method signature="Should_Not_Create_Issue_Wit_Reason_Invalid()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:38 EET" name="Should_Not_Create_Issue_Wit_Reason_Invalid" finished-at="2020-01-20T21:49:40 EET" duration-ms="1530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Not_Create_Issue_Wit_Reason_Invalid -->
+        <test-method signature="Should_Not_Create_Issue_Wit_Severity_Too_Big()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:40 EET" name="Should_Not_Create_Issue_Wit_Severity_Too_Big" finished-at="2020-01-20T21:49:41 EET" duration-ms="1577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Not_Create_Issue_Wit_Severity_Too_Big -->
+        <test-method signature="Should_Not_Create_Issue_Without_Name()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:41 EET" name="Should_Not_Create_Issue_Without_Name" finished-at="2020-01-20T21:49:43 EET" duration-ms="1411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Should_Not_Create_Issue_Without_Name -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.AddIssue@22555ebf]" started-at="2020-01-20T21:49:43 EET" name="afterClass" finished-at="2020-01-20T21:49:43 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.AddIssue -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
